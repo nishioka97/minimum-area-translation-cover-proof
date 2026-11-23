@@ -6,7 +6,7 @@
 **Affiliation:** Department of Mathematical and Computing Science, Institute of Science Tokyo  
 **Manuscript date:** November 23, 2026
 
-**[Read the manuscript (PDF)](./minimum_area_translation_covers%281%29.pdf)**
+**[Read the manuscript (PDF)](./minimum_area_translation_cover.pdf)**
 
 ## Abstract
 
