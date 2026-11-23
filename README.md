@@ -30,7 +30,7 @@ The proof uses placements of Reuleaux triangles, estimates for vertical sections
 
 This repository makes the preliminary manuscript publicly available to document the author's claimed priority for the result. The statement at the top of this README reproduces the notice printed above the title in the PDF. The manuscript also includes an AI disclosure near its references.
 
-The author developed the proof in collaboration with ChatGPT, which generated this version of the manuscript, including its LaTeX source and verification code. The author plans to revise the manuscript before posting a revised version on arXiv.
+The author developed the proof in collaboration with ChatGPT, which generated this version of the manuscript. The author plans to revise the manuscript before posting a revised version on arXiv.
 
 This preliminary release should not be confused with independent verification or peer review of the proof.
 
